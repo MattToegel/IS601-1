@@ -1,7 +1,6 @@
-
 <table><tr><td> <em>Assignment: </em> M2 Python-HW</td></tr>
 <tr><td> <em>Student: </em> Dhananjay Wagh(dw42)</td></tr>
-<tr><td> <em>Generated: </em> 2/11/2022 8:00:59 PM</td></tr>
+<tr><td> <em>Generated: </em> 2/11/2022 8:05:07 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IS601-004-S22/m2-python-hw/grade/dw42" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <p>Make sure you have the dev/prod branches created before starting this assignment.</p>
 <p>Setup steps:</p>
@@ -87,9 +86,9 @@ You can find all 3 template files in this gist: <a href="https://gist.github.com
 <tr><td> <em>Sub-Task 2: </em> Describe how you solved the problem</td></tr>
 <tr><td> <em>Response:</em> <p>Step 1 : Converted string list into integer list <br>Step 2 : Checked<br>if list element was less than 0, if this is true multiplied the<br>element by -1 and printed it else printed it as it is <br><br></p><br></td></tr>
 </table></td></tr>
-<table><tr><td> <em>Deliverable 4: </em> Misc Items </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/f2c037/000000?text=Partial"></td></tr>
+<table><tr><td> <em>Deliverable 4: </em> Misc Items </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Pull Request URL for M2-Python-HW to dev</td></tr>
-<tr><td>Not provided</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/DhananjayWagh004/IS601/pull/2">https://github.com/DhananjayWagh004/IS601/pull/2</a> </td></tr>
 <tr><td> <em>Sub-Task 2: </em> Talk about what you learned, any issues you had, how you resolve them</td></tr>
 <tr><td> <em>Response:</em> <p>Learned how to convert a str list to an int list <br></p><br></td></tr>
 </table></td></tr>
